@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JS-a-bit
 - 👀 I’m interested in supporting social change through technology.
-- 🌱 I’m currently learning web development.
-- ✨ My background is in software engineering and conflict resolution.
+- ✨ I'm a scrum master with a background in software engineering and conflict resolution.
 - 📫 How to reach me Discord JS-a-bit#6479
 
 <!---
